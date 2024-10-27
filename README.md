@@ -3,9 +3,11 @@
 </p>
 <!-- HTML -->
 <br>
+<br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F71F1F&background=101010F8&center=true&vCenter=true&width=435&lines=Tecnology+and+Programming;Music+Producer;Learn+and+Create" alt="Typing SVG" /></a>
 </p>
+<br>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
@@ -15,7 +17,9 @@
 </span>
 
 <hr>
-  
+
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tiziano-baez-iron-kid/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
@@ -26,6 +30,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
 </p>
 
+<br>
 
 - 🌱 I’m currently learning ...
 
